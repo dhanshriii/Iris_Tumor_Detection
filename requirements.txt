@@ -4,4 +4,4 @@ opencv-python
 matplotlib
 seaborn
 scikit-learn
-os
+
