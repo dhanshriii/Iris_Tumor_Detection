@@ -1,0 +1,8 @@
+streamlit
+numpy
+tensorflow
+cv2
+matplotlib
+seaborn
+scikit-learn
+os
